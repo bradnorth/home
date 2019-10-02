@@ -3,6 +3,11 @@ font-family: "Quicksand", sans-serif;
 background-color:#D99C7A;
 }
 
+h1 {
+ font-family: "Pacifico", cursive;
+}
+
+
 /* Navigation Bar */
 ul.sidenav {
   list-style-type: none;
