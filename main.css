@@ -30,7 +30,6 @@ ul.sidenav li a {
   margin-top:12px;
   font-size:25px;
   border:3px black solid;
-  transition-duration: 0.4s;
 }
  
 ul.sidenav li a.active { 
@@ -49,6 +48,7 @@ ul.sidenav li a:hover:not(.active) {
   color: #AA291E;
   box-shadow: 0px 0px 7px black;
   text-shadow: 0px 0px 0px transparent;
+  transition-duration: 0.4s;
 }
 
 ul.sidenav li a.navbar {
